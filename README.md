@@ -1,2 +1,3 @@
-Website/Landing Page for the Technical Resource Lab (TRL)
+Technical Resource Lab (TRL) Website
 ===
+Landing page for TRL
